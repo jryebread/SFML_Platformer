@@ -1,0 +1,7 @@
+﻿  Generating code
+  0 of 191 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFLM_TEST.vcxproj -> C:\Users\James\Documents\Visual Studio 2015\Projects\SFML_Animals\Release\AnimalKingdom.exe
+  SFLM_TEST.vcxproj -> C:\Users\James\Documents\Visual Studio 2015\Projects\SFML_Animals\Release\AnimalKingdom.pdb (Full PDB)
